@@ -1,2 +1,2 @@
 # TestGitHub
-trying gethub 
+trying github 
